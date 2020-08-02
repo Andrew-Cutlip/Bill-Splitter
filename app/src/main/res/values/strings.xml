@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bill Splitter</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title">Bill Splitter</string>
+    <string name="bill_total">Total:</string>
+    <string name="people">Number of People:</string>
+    <string name="calculate_btn">Calculate</string>
+    <string name="total_label">Bill Total:</string>
+    <string name="tip_label">Tip (%)</string>
+    <string-array name="tip_values">
+        <item>15 percent</item>
+        <item>20 percent</item>
+        <item>25 percent</item>
+        <item>30 percent</item>
+        <item>other amount</item>
+    </string-array>
+    <string name="tip_switch">Split tip</string>
+    <string name="tip_off">Seperate tip</string>
+    <string name="tip_val">Tip Value:</string>
+    <string name="cost_per">Cost per Person:</string>
+</resources>
